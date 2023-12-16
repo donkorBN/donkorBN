@@ -8,8 +8,6 @@
 
 - 📝 I regularly write articles on [my blog](https://www.asiamahemmanuel.com)
 
-- 💬 Ask me about **ML, Chatbots and R**
-
 - 📫 How to reach me **projectmanuel89@gmail.com**
 
 - ⚡ Fun fact **I love to talk a lot**
