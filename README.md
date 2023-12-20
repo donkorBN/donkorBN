@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [my blog](https://www.asiamahemmanuel.com)
 
-- 📫 How to reach me **projectmanuel89@gmail.com**
+- 📫 Contact me here **projectmanuel89@gmail.com**
 
 - ⚡ Fun fact **I love to talk a lot**
 
