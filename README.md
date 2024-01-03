@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 <h3 align="center">A curious Junior "no-title-yet" from Ghana</h3>
-<p align="center">I am a 2nd Year Undergrad pursuing Bachelors in Physics with Computer Science from UG</p>
 
 - 🔭 I’m currently working on **Ostrohub**
 
