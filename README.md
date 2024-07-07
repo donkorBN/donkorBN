@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manuel</h1>
-<h3 align="center">A curious Junior "no-title-yet" from Ghana</h3>
+<h1 align="center">Hi 👋, I'm Manuel, Asiamah Emmanuel Donkor</h1>
+<h3 align="center">A curious Junior "no-title-yet" from Ghana. I want to be a product wizard, even if I'm writing less code</h3>
 
 - 🔭 I’m currently working on **Ostrohub** and **My Python**
 
