@@ -2,7 +2,6 @@
 <h2 align="center">I'm Manuel, Asiamah Emmanuel Donkor</h2>
 <h3 align="center">A curious Junior "no-title-yet" from Ghana. I want to be a product wizard, even if I'm writing less code</h3>
 
-- 🔭 I’m currently working on **Ostrohub** and **My Python**
 
 - 🌱 I’m currently learning **Data Analysis, Data Visualization and R**
 
@@ -14,7 +13,7 @@
   
 - I make videos on the internet. You can check them out on [Youtube](https://youtube.com/projectmanuel)
   
-- I'm currently building and shipping high value SaaS products. 
+- I'm currently building and shipping high value SaaS products. (and a non-profit called **OstroHub**)
 
 - ⚡ Fun fact **I love to talk a lot**, especially about business, AI and psychology.
 
