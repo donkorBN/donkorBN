@@ -1,10 +1,8 @@
+![](https://komarev.com/ghpvc/?username=donkorBN&color=blueviolet)
 <h1 align="center">Hi 👋</h1>
 <h2 align="center">I'm Manuel, Asiamah Emmanuel Donkor</h2>
-<h3 align="center">A curious Junior "no-title-yet" from Ghana. I want to be a product wizard, even if I'm writing less code</h3>
 
   Here's what I do:
-  
-- I make videos on the internet. You can check them out on [Youtube](https://youtube.com/projectmanuel)
   
 - I'm currently building and shipping high value SaaS products. (and a non-profit called **OstroHub**)
 
