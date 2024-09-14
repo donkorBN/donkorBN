@@ -22,4 +22,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donkorBN&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=donkorBN&base=1500)
+
