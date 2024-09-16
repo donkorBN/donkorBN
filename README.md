@@ -6,9 +6,7 @@
 - Focused on building and shipping high value SaaS products (perhaps some day). (and a non-profit called **OstroHub**)
 
 - ⚡ Fun fact **I love to talk a lot**, especially about business, AI and psychology.
-
-- 📝 I regularly write articles on [my blog](https://www.asiamahemmanuel.com)
-
+  
 - 📫 Contact me here **projectmanuel89@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
