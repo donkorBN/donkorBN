@@ -3,7 +3,7 @@
 
   Here's what I do:
   
-- Focused on building and shipping high value SaaS products (perhaps some day). (and a non-profit called **OstroHub**)
+- Focused on building and shipping high value SaaS products with MERN(perhaps some day). (and a non-profit called **OstroHub**)
 
 - ⚡ Fun fact **I love to talk a lot**, especially about business, AI and psychology.
   
