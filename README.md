@@ -6,7 +6,7 @@ Budding Technical Product Manager / DevRel
 
 I’m a student in the computer sciences, proficient with modern product management tools and the whole life cycle of building a product. I love understanding technical concepts. Currently, I’m learning React with a focus on MERN
 
-*   🌍  I'm based in Accra
+*   🌍  I'm based in Accra, Ghana
 *   🖥️  See my portfolio at [LinkedIn](http://linkedin.com/donkormanuel)
 *   ✉️  You can contact me at [projectmanuel89@gmail.com](mailto:projectmanuel89@gmail.com)
 *   🚀  I'm currently working on [Pollvite](https://pollvite.com) / [StudyFit](https://studyfit.app)
