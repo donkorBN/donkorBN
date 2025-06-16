@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manuel, Nana Asiamah
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nana Asiamah
 ==============================================================================================================================
 
 Budding Technical Product Manager / DevRel
 -------------------------------------------
 
-I’m a student in the computer sciences, proficient with modern product management tools and the whole life cycle of building a product. I love understanding technical concepts. Currently, I’m learning React with a focus on MERN
+I’m a student in the computer sciences, proficient with modern product management tools and the whole life cycle of building a product. I love understanding technical concepts. Currently, I’m building SaaS products
 
  * 🌍  I'm based in Accra, Ghana
    *   🖥️  See my portfolio on [LinkedIn](http://linkedin.com/in/donkormanuel)
