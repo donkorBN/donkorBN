@@ -1,5 +1,5 @@
 """
-Two Sum
+Has Duplicate 
 https://leetcode.com/problems/contains-duplicate/description/
 
 Problem description :
