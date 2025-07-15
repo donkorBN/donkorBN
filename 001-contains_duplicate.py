@@ -14,5 +14,6 @@ class Solution:
                 return True
             arr.add(i)
         return False
+        hhh
 
     print(hasDuplicate([1,2,3,1,1]))
