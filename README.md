@@ -1,18 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nana Asiamah
 ==============================================================================================================================
 
-Budding Technical Product Manager / DevRel
+Technical Product Manager / AI-Assisted Developer
 -------------------------------------------
 
-I’m a student in the computer sciences, proficient with modern product management tools and the whole life cycle of building a product. I love understanding technical concepts. Currently, I’m building SaaS products
+I’m a student in the computer sciences, proficient with modern product management tools and the whole life cycle of building a product. I love understanding technical concepts. Currently, I’m building SaaS products and learning how to crack product marketing and strategy
 
- * 🌍  I'm based in Accra
+ * 🌍  I'm based in Accra, Ghana
    *   🖥️  See my portfolio on [LinkedIn](http://linkedin.com/in/donkormanuel)
      * ✉️  You can contact me at [projectmanuel89@gmail.com](mailto:projectmanuel89@gmail.com)
      * 🚀  I'm currently working on [Pollvite](https://pollvite.com) / [StudyFit](https://studyfit.app)
-    *  🧠  I'm learning Modern PM Practices 
-    *  🤝  I'm open to collaborating on SaaS products in productivity, entertainment industry
-    * ⚡  I’m Batman, that’s why I stay up late….For Gotham (don’t tell anyone)
+    *  🧠  I'm learning Modern PM Practices and Growth Hacking
+    *  🤝  I'm open to collaborating on SaaS products in productivity
 
 ### Skills 
 <p align="left">
