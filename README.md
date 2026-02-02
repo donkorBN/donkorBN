@@ -10,8 +10,10 @@ I’m a student in the computer sciences, proficient with modern product managem
    *   🖥️  See my portfolio on [LinkedIn](http://linkedin.com/in/donkormanuel)
      * ✉️  You can contact me at [projectmanuel89@gmail.com](mailto:projectmanuel89@gmail.com)
      * 🚀  I'm currently working on [Pollvite](https://pollvite.com) / [StudyFit](https://studyfit.app)
-    *  🧠  I'm learning Modern PM Practices and Growth Hacking
-    *  🤝  I'm open to collaborating on SaaS products in productivity
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Musharafa19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=donkorBN&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Musharafa19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Skills 
 <p align="left">
