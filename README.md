@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Technical Product Manager / AI-Assisted Developer
 -------------------------------------------
 
-I’m a student in the computer sciences, proficient with modern product management tools and the whole life cycle of building a product. I love understanding technical concepts. Currently, I’m building SaaS products and learning how to crack product marketing and strategy
+I’m a student in the computer sciences, proficient with modern product management tools and the whole life cycle of building a product. I love understanding technical concepts and I enjoy taking an idea from "this could work" to something people can actually use. Currently learning how to crack product marketing and strategy
 
  * 🌍  I'm based in Accra, Ghana
-   *   🖥️  See my portfolio on [LinkedIn](http://linkedin.com/in/donkormanuel)
+     * 🖥️  See my portfolio on [LinkedIn](http://linkedin.com/in/donkormanuel)
      * ✉️  You can contact me at [projectmanuel89@gmail.com](mailto:projectmanuel89@gmail.com)
-     * 🚀  I'm currently working on [Pollvite](https://pollvite.com) / [StudyFit](https://studyfit.app)
+     * 🚀  I'm currently working on [Pollvite](https://pollvite.com) / [Paylead](https://paylead.app)
 
 ### Skills 
 <p align="left">
